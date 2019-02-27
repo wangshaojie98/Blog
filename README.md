@@ -6,3 +6,5 @@
 [原型与继承](https://github.com/mgdrum/Blog/issues/3)
 #### Function类型
 [Function类型](https://github.com/mgdrum/Blog/issues/2)
+#### 事件流与代理的相关问题
+[事件流与代理](https://github.com/mgdrum/Blog/issues/5)
