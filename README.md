@@ -39,7 +39,7 @@ Vue相关的问题记录
 ### vue-error
 - [vue之常见错误](https://github.com/mgdrum/Blog/issues/19)
 ### vue-router
-...待续
+- [导航守卫、路由元信息、数据获取、滚动行为](https://github.com/mgdrum/Blog/issues/27)
 ### vuex
 - [Vuex&vue遇到的坑](https://github.com/mgdrum/Blog/issues/8)
 ## 快捷键及Chrome浏览器一些常用技巧
