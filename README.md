@@ -23,6 +23,7 @@ Codewars是一个用于计算机编程的教育社区。在平台上，软件开
 记录一些HTML和CSS的原理与技巧
 - [float与清浮动以及浮动的两栏流式布局 ](https://github.com/mgdrum/Blog/issues/6)
 - [表单form的属性的问题](https://github.com/mgdrum/Blog/issues/7)
+- [多行文本超出范围进行省略处理](https://github.com/mgdrum/Blog/issues/28)
 ## 仿美团项目
 - [m-tuan项目集锦一](https://github.com/mgdrum/Blog/issues/12)
 - [koa&nuxt.js](https://github.com/mgdrum/Blog/issues/10)
