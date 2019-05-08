@@ -19,6 +19,7 @@ Codewars是一个用于计算机编程的教育社区。在平台上，软件开
 - [感叹号系列＃6：从左到右删除句子中的n个感叹号](https://github.com/mgdrum/Blog/issues/24)
 ## ES6
 - [对象扩展、函数扩展、数组扩展](https://github.com/mgdrum/Blog/issues/16)
+- [Iterator-迭代器初探](https://github.com/mgdrum/Blog/issues/29)
 ## HTML&CSS
 记录一些HTML和CSS的原理与技巧
 - [float与清浮动以及浮动的两栏流式布局 ](https://github.com/mgdrum/Blog/issues/6)
