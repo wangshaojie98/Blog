@@ -21,6 +21,7 @@ Codewars是一个用于计算机编程的教育社区。在平台上，软件开
 - [对象扩展、函数扩展、数组扩展](https://github.com/mgdrum/Blog/issues/16)
 - [Iterator-迭代器初探](https://github.com/mgdrum/Blog/issues/29)
 - [Promise初探-实现简单的Promise](https://github.com/mgdrum/Blog/issues/30)
+- [Proxy&Reflect](https://github.com/mgdrum/Blog/issues/31)
 ## HTML&CSS
 记录一些HTML和CSS的原理与技巧
 - [float与清浮动以及浮动的两栏流式布局 ](https://github.com/mgdrum/Blog/issues/6)
