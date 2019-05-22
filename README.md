@@ -9,7 +9,7 @@
 - [防抖和节流简单实现](https://github.com/mgdrum/Blog/issues/21)
 - [事件、事件流、代理、通用监听函数](https://github.com/mgdrum/Blog/issues/5)
 - [类数组转换成数组Array.prototype.slice.call与call](https://github.com/mgdrum/Blog/issues/4)
-- [简单的实现数据改变，页面渲染](https://github.com/mgdrum/Blog/issues/26)
+- [简单的实现数据改变，DOM渲染](https://github.com/mgdrum/Blog/issues/26)
 - [数组去重的三种方法](https://github.com/mgdrum/Blog/issues/17)
 ## codewars
 Codewars是一个用于计算机编程的教育社区。在平台上，软件开发人员对称为kata的编程挑战进行培训。这些离散的编程练习以各种编程语言培养各种技能，并在在线IDE中完成。---不得不说，Codewars上面的题目要更加循序渐进一些，更加激励去做题。 当然，评论区中解题思路更加值得我去思考。
